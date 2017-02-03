@@ -32,7 +32,7 @@
 #include <system/camera.h>
 #include <hardware/camera.h>
 #include <gralloc_priv.h>
-#include <QComOMXMetadata.h>
+#include "QComOMXMetadata.h"
 
 extern "C" {
 #include <linux/msm_ion.h>

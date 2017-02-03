@@ -201,8 +201,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
         libloc_adapter \
         libloc_eng \
-        libloc_api_v02 \
-        libloc_ds_api \
         libloc_core \
         libizat_core \
         libgeofence \
